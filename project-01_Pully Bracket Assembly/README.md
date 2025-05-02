@@ -34,13 +34,13 @@ solidworks part file
 ## License
 this project is licensed under the MIT license.
 ### Isometric View 1
-![Isometric View-1](part1a.png)
+![Isometric View-1](1a.png)
 
 ### Isometric View 2
-![Isometric View-2](part1b.png)
+![Isometric View-2](1b.png)
 
 ### Exploded View
-![Exploded View](part1c.png)
+![Exploded View](1c.png)
 
 
 Thank You for Viewing!
