@@ -40,7 +40,8 @@ Assembly Demo Video
 ▶ Watch the Assembly Demonstration
 
 
-[![Watch the animation](https://youtu.be/iAB5f5L6b_I?si=sDnNzQ4zq2Xemmxx)
+[![Watch the animation](https://img.youtube.com/vi/iAB5f5L6b_I/maxresdefault.jpg)](https://youtu.be/iAB5f5L6b_I)
+
 
 
 
