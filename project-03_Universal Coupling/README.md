@@ -20,13 +20,6 @@ Accurate Mechanical Representation of angular motion transfer
 [![Watch the Assembly Demonstration](https://img.youtube.com/vi/MKYWJDdOFCQ/maxresdefault.jpg)](https://youtu.be/MKYWJDdOFCQ)
 
 
-## Contents
-
-Universal_Coupling_Assembly.SLDASM — Main assembly file
-
-Components/ — Folder containing all individual part files
-
-Screenshots/ — Rendered images and technical views of the assembly
 
 
 ## Applications
