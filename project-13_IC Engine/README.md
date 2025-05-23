@@ -1,42 +1,47 @@
 # Assembly-Model-13-SW
 
-# Mini Bench Vice Assembly
+# 4 Cylinder Engine Assembly
 
-This project showcases a *Mini Bench Vice Assembly* modeled using SolidWorks. It includes all individual parts assembled into a functional unit, designed for gripping objects firmly during work processes like filing, drilling, or cutting.
+This project showcases a detailed 3D model and assembly of a *4 Cylinder Engine*, designed using SolidWorks. It demonstrates the internal structure and motion of major components such as the pistons, crankshaft, and camshaft, offering a clear visual representation of engine operation.
+
+## Overview
+
+- *Software Used:* SolidWorks  
+
+- *Project Type:* Mechanical Design & Assembly  
+
+- *Category:* Internal Combustion Engine  
+
+- *Main Components:* Pistons, Connecting Rods, Crankshaft, Cylinder Block, Flywheel  
+
+## Demonstration
+
+Watch the short video demonstration of the engine in motion here:
+
+[![Watch the Assembly Demonstration](https://img.youtube.com/vi/Z5jgkC8532s/maxresdefault.jpg)](https://youtube.com/shorts/Z5jgkC8532s?si=I7fu-hZDhgybL9oC)
 
 ## Features
 
-- Fully assembled bench vice
+- Accurate 4-cylinder inline engine layout
 
-- Realistic dimensions and constraints
+- Fully constrained and animatable parts
 
-- Suitable for educational and demonstration purposes
+- High-performance simulation ready
 
-- Created in SolidWorks with proper mates and movements
+- Ideal for showcasing engine dynamics and timing
 
+## Applications
 
+This model can be used for:
 
-## Assembly Preview
+- Educational demonstrations  
 
-[![Watch the Assembly Demonstration](https://img.youtube.com/vi/2fBWljtXi80/maxresdefault.jpg)](https://youtube.com/shorts/2fBWljtXi80?si=OIDsJ80dz2Skeddp)
+- Engineering portfolio projects  
 
-## Project Files
+- SolidWorks motion studies  
 
-The repository includes:
+- Mechanical simulation references
 
-- Complete assembly file (.SLDASM)
-
-- Exploded view and motion study (.png)
-
-
-
-## Tools Used
-
-- *SolidWorks* for part modeling and assembly  
-
-- *Animation/Motion Study* for rotor movement visualization  
-
-- *YouTube* for video hosting and preview  
 
 
 
