@@ -38,7 +38,7 @@ This repository contains a detailed 3D CAD model of a V8 Internal Combustion Eng
 
 
 
-##💡 Applications
+## 💡 Applications
 
 - Mechanical Engineering Portfolios
 
