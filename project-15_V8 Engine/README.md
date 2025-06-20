@@ -6,6 +6,7 @@
 This repository contains a detailed 3D CAD model of a V8 Internal Combustion Engine, designed using *SolidWorks*. It showcases the intricate mechanism of a V8 configuration with all major components, including pistons, crankshaft, camshaft, valves, timing gears, and cylinder heads.
 
 
+[![Watch the Assembly Demonstration](https://img.youtube.com/vi/Ft9EKYiruWs/maxresdefault.jpg)](https://youtube.com/shorts/Ft9EKYiruWs)
 
 
 ## 🧩 Features
