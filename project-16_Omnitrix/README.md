@@ -23,7 +23,7 @@ This repository features a *fully custom-designed 3D model of the Omnitrix, the 
 
 
 
-## 🎨 Features & Design Notes
+## 🎨 Features & Design Notes-
 
 - Designed with accurate symmetry and alignment
 
