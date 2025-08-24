@@ -64,16 +64,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## ✍️ Author
-
-**Nishchay Sharma**  
-Mechanical Engineer | Specializing in Design Engineering  
-🔗 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)
-
-
-
-
-
 
 
 
