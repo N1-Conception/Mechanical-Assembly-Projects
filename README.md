@@ -33,7 +33,7 @@ This repository is licensed under the [MIT License](LICENSE).
 
 Nishchay Sharma  
 
->B.Tech, Mechanical Engineering |Gold Medalist
+>B.Tech Mechanical Engineering |Gold Medalist
 
 >SolidWorks Enthusiast | Design Engineer
 
