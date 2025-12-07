@@ -2,6 +2,9 @@
 
 A collection of mechanical assembly projects designed in SolidWorks, demonstrating skills in part modeling, advanced mating, design intent, and motion visualization.
 
+
+![Project‑name](./display.png)
+
 ## Features
 
 - Advanced Mating Techniques (Concentric, Tangent, Gear Mate)
